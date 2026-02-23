@@ -1,0 +1,16 @@
+/* Reset layout */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,body,#root {
+  height: 100%;
+  width: 100%;
+}
+
+/* Keep your fonts */
+body {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
